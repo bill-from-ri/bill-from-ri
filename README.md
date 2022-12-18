@@ -2,7 +2,7 @@
 Hello! I am a sophomore at Tufts University majoring in Computer Science and minoring in Mathematics. My interests include machine learning, data science, game development, and operating systems. This summer, I worked in Professor Rob Jacob's Human-Computer Interaction Lab here at Tufts. There, I formatted data from experiment results using Python and MatLab, using MatLab's machine learning library to analyze experiment data.
 
 ## Ongoing Projects
-- Inspired by the bitwise computations I had to implement in my most recent CS coure at Tufts, Machine Structures & Assembly Language Programming, I've begun building a bitwise calculator app. I hope to have it finished by the end of Winter Break, 2022.
+- Inspired by the bitwise computations I had to implement in my most recent CS course at Tufts, Machine Structures & Assembly Language Programming, I've begun building a bitwise calculator app. I hope to have it finished by the end of Winter Break, 2022.
 - During the summer of 2022, I began developing a 2D strategy game called To Arms. The prototype I completed over the summer was built with Unity. I put it on the shelf when the school year started, but hope to return to it this winter. 
 
 ## Past Projects
