@@ -3,7 +3,7 @@ Hello! I am a sophomore at Tufts University majoring in Computer Science and min
 
 
 ## Ongoing Projects
-- Inspired by the bitwise computations I had to implement in my most recent CS course at Tufts, Machine Structures & Assembly Language Programming, I've begun building a bitwise calculator app. I hope to have it finished by the end of Winter Break, 2022.
+- Inspired by the bitwise computations I had to implement in my most recent CS course at Tufts, Machine Structures & Assembly Language Programming, I've begun building a bitwise calculator programming. I hope to finish the BitCalc program by the end of Winter Break, 2022.
 - During the summer of 2022, I began developing a 2D strategy game called To Arms. The prototype I completed over the summer was built with Unity. I put it on the shelf when the school year started, but hope to return to it this winter. 
 
 ## Past Projects
