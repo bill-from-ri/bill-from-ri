@@ -6,7 +6,7 @@ Hello! I am a sophomore at Tufts University majoring in Computer Science and min
 - During the summer of 2022, I began developing a 2D strategy game called To Arms. The prototype I completed over the summer was built with Unity. I put it on the shelf when the school year started, but hope to return to it this winter. 
 
 ## Past Projects
-- [**BitCalc.**](https://github.com/onionLad/BitCalc) Inspired by the bit manipulation problems I solved in CS 40 (Machine Structures & Assembly Language Programming), I spent the first half of Winter Break, 2022 building a bitwise calculator program.
+- [**BitCalc.**](https://github.com/onionLad/BitCalc) A programming calculator i made during Winter Break, 2022. It can perform standard arithmetic as well as bitwise operations like and, or, xor, and invert.
 - [**Catacombs.**](https://team-catacombs.itch.io/catacombs) A 3D vido game I made for my final project in Game Design during Spring Semester, 2022. Made with Unity.
 - [**Alchemist Dungeon.**](https://alko08.itch.io/alchemists-dungeon) A 2D video game I made for my midterm project in CS 23 (Game Design) during Spring Semester, 2022. Made with Unity.
 
