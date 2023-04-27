@@ -1,5 +1,5 @@
 # William (Bill) Xia
-Hello! I am a sophomore at Tufts University majoring in Computer Science and minoring in Mathematics. My interests include machine learning, data science, game development, and operating systems. This summer, I worked in Professor Rob Jacob's Human-Computer Interaction Lab here at Tufts. There, I used Python and MatLab to automate formatting of game data and brainwave data so it could be processed by machine learning models. Additionally, I performed exploratory data analysis to identify key variables from the lab's clinical trials to be assessed by machine learning models.
+Hello! I am a sophomore at Tufts University majoring in Computer Science and minoring in Mathematics. My interests include machine learning, data science, game development, and operating systems. Last summer, I worked in Professor Rob Jacob's Human-Computer Interaction Lab here at Tufts. There, I used Python and MatLab to automate formatting of game data and brainwave data so it could be processed by machine learning models. Additionally, I performed exploratory data analysis to identify key variables from the lab's clinical trials to be assessed by machine learning models.
 
 
 ## Ongoing Projects
