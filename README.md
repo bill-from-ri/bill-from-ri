@@ -3,7 +3,7 @@ Hello! I am a sophomore at Tufts University majoring in Computer Science and min
 
 
 ## Ongoing Projects
-- I am currently developing a neural network classifier that can identify handwritten letters from the English alphabet. 
+- I am currently developing a neural network classifier that can identify handwritten letters from the English alphabet. I hope to have it finished by the end of May, 2023.
 
 ## Past Projects
 - [**BitCalc.**](https://github.com/onionLad/BitCalc) A programming calculator i made during Winter Break, 2022. It can perform standard arithmetic as well as bitwise operations like and, or, xor, and invert.
