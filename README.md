@@ -3,7 +3,7 @@ Hello! I am a sophomore at Tufts University majoring in Computer Science and min
 
 
 ## Ongoing Projects
-- During the summer of 2022, I began developing a 2D strategy game called To Arms. The prototype I completed over the summer was built with Unity. I put it on the shelf when the school year started, but hope to return to it this summer. 
+- I am currently developing a neural network classifier that can identify handwritten letters from the English alphabet. 
 
 ## Past Projects
 - [**BitCalc.**](https://github.com/onionLad/BitCalc) A programming calculator i made during Winter Break, 2022. It can perform standard arithmetic as well as bitwise operations like and, or, xor, and invert.
