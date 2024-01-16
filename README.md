@@ -3,7 +3,7 @@ Hello! I am a junior at Tufts University majoring in Computer Science and minori
 
 
 ## Ongoing Projects
-- I am currently busy with school work for the semester. I look forward to pursuing a new programming project this winter. 
+- I am currently working on [**Caravans**](https://github.com/onionLad/Caravans), a simple simulator for a medieval economy.
 
 ## Past Projects
 - [**SentAnal.**](https://github.com/onionLad/SentimentAnalyzer) A pair of sentiment analysis classifiers I made during my first week as an intern at the National Institutes of Health. One classifier uses logistic regression while the other uses Naive Bayes. Made using Python.
