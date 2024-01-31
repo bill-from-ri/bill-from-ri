@@ -1,9 +1,5 @@
 # William (Bill) Xia
-Hello! I am a junior at Tufts University majoring in Computer Science and minoring in Mathematics. My interests include machine learning, natural language processing, data science, game development, and operating systems. This summer, I completed an internship in Dr. Dina Demner-Fushman's Computational Health Lab at the National Institutes of Health. My project involved building a language model capable of identifying and defining non-consumer terminology in medical literature. It's my hope that the final product can help improve medical and scientific literacy for the general public. During this internship, I learned a lot about natural language processing as well as how to conduct computational research. 
-
-
-## Ongoing Projects
-- I am currently working on [**Caravans**](https://github.com/onionLad/Caravans), a simple simulator for a medieval economy.
+Hello! I am a junior at Tufts University majoring in Computer Science and minoring in Mathematics. My interests include machine learning, natural language processing, data science, game development, and programming languages. Last summer, I completed an internship in Dr. Dina Demner-Fushman's Computational Health Lab at the National Institutes of Health. My project involved building a language model capable of identifying and defining non-consumer terminology in medical literature. It's my hope that the final product can help improve medical and scientific literacy for the general public. During this internship, I learned a lot about natural language processing as well as how to conduct computational research. 
 
 ## Past Projects
 - [**SentAnal.**](https://github.com/onionLad/SentimentAnalyzer) A pair of sentiment analysis classifiers I made during my first week as an intern at the National Institutes of Health. One classifier uses logistic regression while the other uses Naive Bayes. Made using Python.
