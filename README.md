@@ -4,7 +4,7 @@ Hello! I am a rising senior at Tufts University majoring in Computer Science and
 This summer, I'm back in Dr. Dina Demner-Fushman's Computational Health Lab at the National Institudes of Health. I look forward to continuing my work on biomedical text simplification. It's my hope that the final product can help improve medical and scientific literacy for the general public. I intend on publishing my findings by the end of the summer. 
 
 ## Interests
-Within computer science, my interests include natural language processing (specifically, large language models), reinforcement learning, game development, and programming languages. After college, I hope to either find work that allows me to develop NLP or RL technologies, or pursue a PhD.
+Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages. After college, I hope to either find work that allows me to develop NLP or RL technologies, or pursue a PhD.
 
 Outside of my field of study, I enjoy playing Dungeons & Dragons, writing pieces of short fiction, going on hikes, and rock climbing.
 
