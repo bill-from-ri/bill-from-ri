@@ -1,16 +1,16 @@
 # William (Bill) Xia
-Hello! I am a rising senior at Tufts University majoring in Computer Science and minoring in Mathematics. During the school year you can find me on the 3rd floor of the Joyce Cummings Center as a Teaching Assistant for CS 105: Programming Languages.
+Hello! I am a senior at Tufts University working towards a BS in Computer Science with minors in Mathematics and English. During the school year you can find me on the 3rd floor of the Joyce Cummings Center as a Teaching Assistant for CS 105: Programming Languages.
 
-This summer, I'm back in Dr. Dina Demner-Fushman's Computational Health Lab at the National Institudes of Health. I look forward to continuing my work on biomedical text simplification. It's my hope that the final product can help improve medical and scientific literacy for the general public. I intend on publishing my findings by the end of the summer. 
+This summer, I returned to Dr. Dina Demner-Fushman's Computational Health Lab within the National Library of Medicine at the National Institutes of Health. My project was focused on text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I am currently writing two papers based on the research I conducted this summer, both of which I intend on submitting for publication this October.
 
 ## Interests
-Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages. After college, I hope to either find work that allows me to develop NLP or RL technologies, or pursue a PhD.
+Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages. After college, I intend on pursuing a PhD in Computer Science.
 
 Outside of my field of study, I enjoy playing Dungeons & Dragons, writing pieces of short fiction, going on hikes, and rock climbing.
 
 ## Ongoing Projects
 - **NIH.** My research at the National Institutes of Health primarily revolves around [PLABA](https://bionlp.nlm.nih.gov/plaba2024/). I seek to develop language models capable to identifying complex terms in biomedical abstracts and producing consumer-friendly replacements for those terms. It's my hope that the final product can help improve medical and scientific literacy for the general public. 
-- **Thesis.** This coming fall and spring, I intend on pursuing a senior thesis under the mentorship of Professor Vasanth Sarathy. My project involves using an LLM to direct reinforcement learning agents through dynamically-changing environments. I hope to show that LLMs can help RL agents more efficiently adapt to unexpected "novelties" in their environments. 
+- **Senior Honors Thesis.** This fall and coming spring, I will be pursuing a senior thesis under the mentorship of Professor Vasanth Sarathy and Professor Matthias Scheutz. My project involves using an LLM to direct reinforcement learning agents through puzzle game environments. I hope to show that LLMs can help RL agents more efficiently discover solutions to complex puzzles.
 
 ## Past Personal Projects
 - [**NN-Flowers.**](https://github.com/onionLad/NN-flowers) A neural network capable of classifying flowers from the [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set). This project was inspired by Tufts' CS 131 final project, which I heard about from some of my peers who took the course. Made from scratch using Python.
