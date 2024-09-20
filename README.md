@@ -16,8 +16,8 @@ Outside of my field of study, I enjoy playing Dungeons & Dragons, writing pieces
 - [**NN-Flowers.**](https://github.com/onionLad/NN-flowers) A neural network capable of classifying flowers from the [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set). This project was inspired by Tufts' CS 131 final project, which I heard about from some of my peers who took the course. Made from scratch using Python.
 - [**SentAnal.**](https://github.com/onionLad/SentimentAnalyzer) A pair of sentiment analysis classifiers I made during my first week as an intern at the National Institutes of Health in 2023. One classifier uses logistic regression while the other uses Naive Bayes. Made using Python.
 - [**BitCalc.**](https://github.com/onionLad/BitCalc) A programming calculator I made during Winter Break, 2022. It can perform standard arithmetic as well as bitwise operations like and, or, xor, and invert. Made using JavaScript and the React framework.
-- [**Catacombs.**](https://team-catacombs.itch.io/catacombs) A 3D vido game I made for my final project in Game Design during Spring Semester, 2022. Made using Unity.
-- [**Alchemist Dungeon.**](https://alko08.itch.io/alchemists-dungeon) A 2D video game I made for my midterm project in CS 23 (Game Design) during Spring Semester, 2022. Made using Unity.
+- [**Catacombs.**](https://team-catacombs.itch.io/catacombs) A 3D vido game I made for my final project in CS 23 (Game Design) during Spring Semester, 2022. Made using Unity.
+- [**Alchemist Dungeon.**](https://alko08.itch.io/alchemists-dungeon) A 2D video game I made for my midterm project in Game Design during Spring Semester, 2022. Made using Unity.
 
 ## Contact Info
 - Connect with me on <a href="https://www.linkedin.com/in/william-xia-ab40b2218/">LinkedIn</a>
