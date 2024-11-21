@@ -6,7 +6,7 @@ This summer, I returned to Dr. Dina Demner-Fushman's Computational Health Lab wi
 ## Interests
 Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages. After college, I intend on pursuing a PhD in Computer Science.
 
-Outside of my field of study, I enjoy playing Dungeons & Dragons, writing pieces of short fiction, going on hikes, and rock climbing.
+Outside of my field of study, I enjoy playing Dungeons & Dragons, writing short fiction, going on hikes, and rock climbing.
 
 ## Ongoing Projects
 - **NIH.** I am currently wrapping up by projects at the National Library of Medicine, which primarily revolve around [PLABA](https://bionlp.nlm.nih.gov/plaba2024/). I have developed a suite of language models capable to identifying complex terms in biomedical abstracts and producing consumer-friendly replacements for those terms. It's my hope that the final product can help improve medical and scientific literacy for the general public. The manuscripts of two papers written about my work will be submitted for publication this October.
