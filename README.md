@@ -9,7 +9,7 @@ Within computer science, my interests include natural language processing (speci
 Outside of my field of study, I enjoy playing Dungeons & Dragons, writing short fiction, going on hikes, and rock climbing.
 
 ## Ongoing Projects
-- **NIH.** I am currently wrapping up by projects at the National Library of Medicine, which primarily revolve around [PLABA](https://bionlp.nlm.nih.gov/plaba2024/). I have developed a suite of language models capable to identifying complex terms in biomedical abstracts and producing consumer-friendly replacements for those terms. It's my hope that the final product can help improve medical and scientific literacy for the general public. The manuscripts of two papers written about my work will be submitted for publication this October.
+- **NIH.** I am currently wrapping up by projects at the National Library of Medicine, which primarily revolve around [PLABA](https://bionlp.nlm.nih.gov/plaba2024/). I have developed a suite of language models capable to identifying complex terms in biomedical abstracts and producing consumer-friendly replacements for those terms. It's my hope that the final product can help improve medical and scientific literacy for the general public. The manuscripts of two papers written about my work will be submitted for publication early next semester.
 - **Senior Honors Thesis.** This fall and coming spring, I will be pursuing a Senior Honors Thesis under the mentorship of Professor Vasanth Sarathy and Professor Matthias Scheutz. My project involves using an LLM to generate neuro-symbolic world models of puzzle game environments. I hope to show that LLMs can detect patterns in these environments to learn the rules of the puzzles on their own.
 
 ## Featured Past Personal Projects
