@@ -1,7 +1,7 @@
 # William (Bill) Xia
 Hello! I am a senior at Tufts University working towards a BS in Computer Science with minors in Mathematics and English. During the school year you can find me on the 3rd floor of the Joyce Cummings Center as a Teaching Assistant for CS 105: Programming Languages.
 
-This summer, I returned to Dr. Dina Demner-Fushman's Computational Health Lab within the National Library of Medicine at the National Institutes of Health. My project was focused on text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I am currently writing two papers based on the research I conducted this summer, both of which I intend on submitting for publication this October.
+This summer, I returned to Dr. Dina Demner-Fushman's Computational Health Lab within the National Library of Medicine at the National Institutes of Health. My project was focused on text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I am currently writing two papers based on the research I conducted this summer, both of which I intend on submitting for publication early next semester.
 
 ## Interests
 Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages. After college, I intend on pursuing a PhD in Computer Science.
