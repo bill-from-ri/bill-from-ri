@@ -1,18 +1,18 @@
 # William (Bill) Xia
-Hello! I am a senior at Tufts University working towards a BS in Computer Science with minors in Mathematics and English. Next year, I will be pursuing a fifth-year MS in Artificial Intelligence. During the school year you can find me on the 3rd floor of the Joyce Cummings Center as a Teaching Assistant for CS 105: Programming Languages.
+Hello! I am an AI Product Management Intern at SolidWorks. Recently, I graduated from Tufts University with a BS in Computer Science and minors in English and Mathematics. 
 
-Last summer, I returned to Dr. Dina Demner-Fushman's Computational Health Lab within the National Library of Medicine at the National Institutes of Health. My project was focused on text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I submitted a paper documenting my research to ACL earlier this year, and I plan on writing one more paper based on the work I did this summer, which I intend on submitting for publication this summer.
+I was previously a Summer Research Intern at the National Library of Medicine (NLM) within the National Institutes of Health (NIH). There, I worked in Dr. Dina Demner-Fushman's Computational Health Lab on a project focused on biomedical text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I was the first author on a paper documenting my research, which was accepted to ACL 2025 earlier this year.
 
 **Note:** This page may not be fully updated. Check out my [website](https://bill-from-ri.github.io/) to see what I'm currently up to.
 
 ## Interests
-Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages. After college, I intend on pursuing a PhD in Computer Science.
+Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages.
 
-Outside of my field of study, I enjoy playing Dungeons & Dragons, writing fiction, and rock climbing.
+Outside of my field of study, I enjoy playing rock climbing, writing fiction, and learning foreign languages.
 
-## Ongoing Projects
-- **Senior Honors Thesis.** This school year, I have been pursuing a Senior Honors Thesis under the mentorship of Professor Vasanth Sarathy and Professor Matthias Scheutz. My project involves using an LLM to generate neuro-symbolic world models of puzzle game environments. I hope to show that LLMs can detect patterns in these environments to learn the rules of the puzzles on their own.
-- **Senior Capstone Project.** In addition to my Senior Thesis, I am also working on a Senior Capstone Project with two of my classmates. Our client is [ASLDeafined](https://www.asldeafined.com/), an American Sign Language education website. We are working to integrate an AI-powered question selector into their existing lesson creation system.
+## Recent Projects
+- **Senior Honors Thesis.** I recently defended and submitted my Senior Honors Thesis, under the advisorship of Professor Vasanth Sarathy and Professor Matthias Scheutz. My project involved using natural language world models to ground LLMs to embodied puzzle environments.
+- **Senior Capstone Project.** In addition to my Senior Thesis, I also worked on a Senior Capstone Project this year with two of my classmates. Our client was [ASLDeafined](https://www.asldeafined.com/), an American Sign Language education website. We integrated an AI-powered, Duolingo-like activity generation system into their website.
 
 ## Featured Personal Projects
 - [**Pinterest Content Sharing Chatbot.**](https://github.com/bill-from-ri/KG_RAG) A RAG question-answering chatbot webapp made to help Pinterest users learn about how their content is shared. The knowledge graph was hosted on Neo4j, the backend was implemented using Python (LangChain and Flask), and the frontend was powered by React.js.
