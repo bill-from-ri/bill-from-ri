@@ -8,7 +8,7 @@ I was previously a Summer Research Intern at the National Library of Medicine (N
 ## Interests
 Within computer science, my interests include natural language processing (specifically, work involving large language models), reinforcement learning, game development, and programming languages.
 
-Outside of my field of study, I enjoy playing rock climbing, writing fiction, and learning foreign languages.
+Outside of my field of study, I enjoy rock climbing, writing fiction, and learning foreign languages.
 
 ## Recent Projects
 - **Senior Honors Thesis.** I recently defended and submitted my Senior Honors Thesis, under the advisorship of Professor Vasanth Sarathy and Professor Matthias Scheutz. My project involved using natural language world models to ground LLMs to embodied puzzle environments.
