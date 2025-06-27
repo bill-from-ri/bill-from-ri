@@ -1,7 +1,7 @@
 # William (Bill) Xia
-Hello! I am an AI Product Management Intern at SolidWorks. Recently, I graduated from Tufts University with a BS in Computer Science and minors in English and Mathematics. 
+Hello! I am an AI Product Management Intern for SolidWorks at Dassault Systèmes. There, my work involves automating PM workflows using agentic AI. I graduated from Tufts University in May 2025 with a BS in Computer Science and minors in English and Mathematics. 
 
-I was previously a Summer Research Intern at the National Library of Medicine (NLM) within the National Institutes of Health (NIH). There, I worked in Dr. Dina Demner-Fushman's Computational Health Lab on a project focused on biomedical text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I was the first author on a paper documenting my research, which was accepted to ACL 2025 earlier this year.
+I was previously a Summer Research Intern at the National Library of Medicine (NLM) within the National Institutes of Health (NIH). There, I worked in Dr. Dina Demner-Fushman's Computational Health Lab on a project focused on biomedical text simplification, using Large Language Models to translate biomedical texts into content that can be easily read by lay consumers. It's my hope that the final product will help improve medical and scientific literacy for the general public. I was the first author on a paper documenting my research, which I will present at ACL 2025 in Vienna this August.
 
 **Note:** This page may not be fully updated. Check out my [website](https://bill-from-ri.github.io/) to see what I'm currently up to.
 
